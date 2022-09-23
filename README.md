@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Michelice227
-- 🤖 I'm A Discord Bot Developer
-- 👑 Owner And Developer For Lunar Utility Bot: https://lunar-utility.xyz/
+- 🤖 I'm a discord bot developer
+- 👑 Owner and developer for Lunar Utility Bot: https://lunar-utility.xyz/
 - 📄 Languages: JavaScript, TypeScript, HTML
