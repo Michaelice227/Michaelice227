@@ -1,6 +1,5 @@
 - Hi, I’m Michael
 - I like to code things
-- I'm a discord bot developer
 - Owner and developer for Lunar Utility Bot: https://lunar-utility.xyz/
 
 #### Languages:
