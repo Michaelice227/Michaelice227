@@ -1,2 +1,2 @@
 - Hi, I’m Michael
-- Owner and Lead Dev of Lunar Utility Bot: https://lunar-utility.xyz/
+- Owner and Lead Developer of Lunar Utility Bot: https://lunar-utility.xyz/
